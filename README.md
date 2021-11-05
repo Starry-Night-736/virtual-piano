@@ -1,4 +1,4 @@
-# Virtual_Piano
+# Virtual Piano
 This is a virtual piano program with UI using **x86 Assembly** language.
 
 ## Description
